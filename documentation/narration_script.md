@@ -1,8 +1,8 @@
 # M3 Mathematics Animation Video Project: Narration Script
 **Project Title:** Linear Transformations: How Matrices Transform 2D Space  
 **Course:** M3 Mathematics Animation Video Project  
-**Student Name:** [ENTER STUDENT NAME]  
-**Student ID:** [ENTER STUDENT ID]  
+**Student Name:** Amresh Anand  
+**Student ID:** E25B070923  
 **Target Duration:** ~5 minutes (Paced for clarity at ~155 words/min)
 
 ---
@@ -16,7 +16,7 @@
 > *At the very heart of these technologies lies the linear transformation.*  
 > *A matrix is not just a spreadsheet of numbers—it is a geometric engine that stretches, rotates, shears, and reshapes space.*  
 > *Welcome to 'Linear Transformations: How Matrices Transform 2D Space'.*  
-> *I am [ENTER STUDENT NAME], Student ID [ENTER STUDENT ID].*  
+> *I am Amresh Anand, Student ID E25B070923.*  
 > *Let us explore how matrices transform space, why basis vectors hold the key to everything, and how to visualize the geometry behind the algebra."*
 
 ---
@@ -109,4 +109,4 @@
 > *Fourth, eigenvectors reveal invariant directions where the transformation acts as pure scaling.*  
 > *And fifth, area preservation does not imply distance preservation.*  
 > *Thank you for watching this presentation of the M3 Mathematics Animation Video Project.*  
-> *Created by [ENTER STUDENT NAME], Student ID [ENTER STUDENT ID]."*
+> *Created by Amresh Anand, Student ID E25B070923."*

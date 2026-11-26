@@ -1,8 +1,8 @@
 # Six-Scene Storyboard: Linear Transformations
 **Project Title:** Linear Transformations: How Matrices Transform 2D Space  
 **Course:** M3 Mathematics Animation Video Project  
-**Student Name:** [ENTER STUDENT NAME]  
-**Student ID:** [ENTER STUDENT ID]  
+**Student Name:** Amresh Anand  
+**Student ID:** E25B070923  
 **Aspect Ratio:** 16:9 | **Target Resolution:** 1920 × 1080 | **Target Duration:** ~5 mins 10 secs
 
 ---

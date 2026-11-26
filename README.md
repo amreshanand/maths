@@ -18,8 +18,8 @@ The project visually explains *why* matrices alter geometric space rather than p
 ---
 
 ## 2. Student & Submission Configuration
-- **Student Name:** `[ENTER STUDENT NAME]`
-- **Student ID:** `[ENTER STUDENT ID]`
+- **Student Name:** Amresh Anand
+- **Student ID:** E25B070923
 - **Course / Project:** M3 Mathematics Animation Video Project
 - **Topic:** Linear Transformations
 - **Video Title:** Linear Transformations: How Matrices Transform 2D Space

@@ -7,8 +7,8 @@ import os
 from pathlib import Path
 
 # Student Details - As specified in the master prompt
-STUDENT_NAME = "[ENTER STUDENT NAME]"
-STUDENT_ID = "[ENTER STUDENT ID]"
+STUDENT_NAME = "Amresh Anand"
+STUDENT_ID = "E25B070923"
 COURSE_NAME = "M3 Mathematics Animation Video Project"
 TOPIC = "Linear Transformations"
 VIDEO_TITLE = "Linear Transformations: How Matrices Transform 2D Space"
