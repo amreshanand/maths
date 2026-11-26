@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.venv/
+venv/
+ENV/
+
+# Manim intermediate render cache
+media/videos/*/480p15/
+media/videos/*/1080p60/partial_movie_files/
+media/synced_scenes/
+media/concat_list.txt
+media/assembled_narration.mp4
+media/Tex/
+media/texts/
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+media/
